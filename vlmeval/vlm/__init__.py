@@ -9,7 +9,7 @@ from .thyme import Thyme
 from .cogvlm import CogVlm, GLM4v, GLMThinking
 from .emu import Emu, Emu3_chat, Emu3_gen
 from .eagle_x import Eagle
-from .granite_vision import GraniteVision3
+# from .granite_vision import GraniteVision3
 from .idefics import IDEFICS, IDEFICS2
 from .instructblip import InstructBLIP
 from .kosmos import Kosmos2
@@ -116,3 +116,5 @@ from .logics import Logics_Thinking
 from .cosmos import Cosmos
 from .liquid import LFM2VL
 from .insight_v import InsightV
+
+from .lumina_dimmo import Lumina_DiMOO
