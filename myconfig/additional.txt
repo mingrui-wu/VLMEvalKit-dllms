@@ -1,0 +1,3 @@
+pip install setuptools==69.5.1
+pip install diffusers
+pip install transformers==4.46.2
