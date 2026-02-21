@@ -114,7 +114,7 @@ from .keye_vlm import KeyeChat
 from .qianfan_vl import Qianfan_VL
 from .logics import Logics_Thinking
 from .cosmos import Cosmos
-from .liquid import LFM2VL
+# from .liquid import LFM2VL
 from .insight_v import InsightV
 
 from .lumina_dimmo import Lumina_DiMOO
