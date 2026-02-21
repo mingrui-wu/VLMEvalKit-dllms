@@ -1,0 +1,11 @@
+{
+    "model": {
+        "Lumina_DiMOO": {}
+    },
+    "data": {
+        "VSIBench": {
+            "class": "VSIBench",
+            "nframe": 16
+        }
+    }
+}
